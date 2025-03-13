@@ -55,7 +55,7 @@ def main():
         print(f"\n{symbol}:")
         for interval in intervals:
             key = f"{symbol}_{interval}"
-            status = "In squeeze \u2714" if result[key] else "In squeeze X"
+            status = "In squeeze √" if result[key] else "In squeeze X"
             print(f"  {interval:<5}: {status}")
 
 
