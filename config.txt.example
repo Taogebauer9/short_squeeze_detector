@@ -1,0 +1,3 @@
+URL=https://finviz.com/screener.ashx?v=111&f=sh_float_u10%2Csh_opt_option%2Csh_outstanding_o1%2Csh_price_u5%2Csh_short_high
+API_KEY=***Insert Polygon Key Here***
+INTERVALS=15,60,240,480
